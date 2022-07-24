@@ -8,6 +8,9 @@
 botseye/botseye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+I learned Electrical and Automation Engineering, Programming and Mathematics. 
+I am experienced with CV, ML, and DL.
+Now I am studying Robotics and RL.
+
 Robot, CV and DL are the most words that make me energized every second.
-I want to develop cool robots for agriculture, medical field and spacecrafts.
-If you have such projects, please let me collaborate or JOIN.
+Someday, I want to develop cool robots for Agriculture, medical field and spacecrafts.
