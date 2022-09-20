@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @botseye, a self motivated and deligent researcher, engineer, and developer.
 - 👀 I’m interested in Artificial Intelligence.
 - 💞️ I’m looking for jobs involving Robotics, CV(Computer Vision), DL(Deep Learning) and RL(Reinforcement Learning).
-- 📫 How to reach me: alanaidev122@gmail.com
 
 <!---
 botseye/botseye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
